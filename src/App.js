@@ -34,7 +34,7 @@ function App() {
 	return (
 		<div className='container'>
 			<header>
-				<h1>Gasto de la Semanal</h1>
+				<h1>Control de Gastos</h1>
 				<div className='contenido-principal contenido'>
 					{mostrarpregunta ? (
 						<Pregunta
